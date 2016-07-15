@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="com.yahoo.wlauer.m2e.antlr4.feature"
-      label="Antlr4 M2E Connector Feature"
+      label="Antlr4 M2E Connector"
       version="1.0.0.qualifier"
       license-feature="org.sonatype.m2e.antlr.feature"
       license-feature-version="0.15.0.201207090124">

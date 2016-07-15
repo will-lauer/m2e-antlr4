@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.yahoo.wlauer.m2e.antlr4.feature_1.0.0.201607151102.jar" id="com.yahoo.wlauer.m2e.antlr4.feature" version="1.0.0.201607151102">
+   <description name="M2e antlr4 connector" url="http://will-lauer.github.io/m2e-antlr4/site">
+      M2E Connector for Antlr4
+   </description>
+   <feature url="features/com.yahoo.wlauer.m2e.antlr4.feature_1.0.0.201607151201.jar" id="com.yahoo.wlauer.m2e.antlr4.feature" version="1.0.0.201607151201">
       <category name="com.yahoo.wlauer.m2e.antlr4"/>
    </feature>
    <category-def name="com.yahoo.wlauer.m2e.antlr4" label="M2E Antlr4 Connector">
