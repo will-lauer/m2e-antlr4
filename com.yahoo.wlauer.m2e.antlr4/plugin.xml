@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.m2e.core.projectConfigurators">
+      <configurator
+            class="com.yahoo.wlauer.m2e.antlr4.Antlr4ProjectConfigurator"
+            id="com.yahoo.wlauer.m2e.antlr4.antlr4Configurator"
+            name="Antlr4 Project Configurator">
+      </configurator>
+   </extension>
+   <extension
+         point="org.eclipse.m2e.core.lifecycleMappingMetadataSource">
+   </extension>
+
+</plugin>

@@ -1,0 +1,19 @@
+<lifecycleMappingMetadata>
+	<pluginExecutions>
+		<pluginExecution>
+			<pluginExecutionFilter>
+				<groupId>org.antlr</groupId>
+				<artifactId>antlr4-maven-plugin</artifactId>
+				<versionRange>[4.0,)</versionRange>
+				<goals>
+					<goal>antlr4</goal>
+				</goals>
+			</pluginExecutionFilter>
+			<action>
+				<configurator>
+					<id>com.yahoo.wlauer.m2e.antlr4.antlr4Configurator</id>
+				</configurator>
+			</action>
+		</pluginExecution>
+	</pluginExecutions>
+</lifecycleMappingMetadata>
