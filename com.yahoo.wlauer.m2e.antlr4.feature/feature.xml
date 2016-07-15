@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.yahoo.wlauer.m2e.antlr4.feature"
+      label="Antlr4 M2E Connector Feature"
+      version="1.0.0.qualifier"
+      license-feature="org.sonatype.m2e.antlr.feature"
+      license-feature-version="0.15.0.201207090124">
+
+   <description url="http://will-lauer.github.io/m2e-antlr4">
+      M2E connector for Antlr4
+   </description>
+
+   <url>
+      <update label="M2e antlr4 connector" url="http://will-lauer.github.io/m2e-antlr4/site"/>
+   </url>
+
+   <plugin
+         id="com.yahoo.wlauer.m2e.antlr4"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
