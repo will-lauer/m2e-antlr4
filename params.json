@@ -1,6 +1,6 @@
 {
   "name": "M2e-antlr4",
   "tagline": "M2E plugin for Antlr4",
-  "body": "### M2E Connector for Antlr4\r\nThis is a basic Antlr4 connector for M2E based on the Antlr3 connector originally available from Sonatype and now available [here] (https://github.com/tesla/m2eclipse-antlr).\r\n\r\n### Eclipse update site can be found at (http://will-lauer.github.io/m2e-antlr/site)\r\n\r\n### Authors and Contributors\r\nPlugin updated for antlr4 by @will-lauer\r\n\r\n",
+  "body": "### M2E Connector for Antlr4\r\nThis is a basic Antlr4 connector for M2E based on the Antlr3 connector originally available from Sonatype and now available [here] (https://github.com/tesla/m2eclipse-antlr).\r\n\r\n### Eclipse update site can be found at (http://will-lauer.github.io/m2e-antlr4/site)\r\n\r\n### Authors and Contributors\r\nPlugin updated for antlr4 by @will-lauer\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
