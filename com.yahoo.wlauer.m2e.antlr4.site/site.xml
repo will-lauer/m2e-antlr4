@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.yahoo.wlauer.m2e.antlr4.feature_1.0.0.201607150959.jar" id="com.yahoo.wlauer.m2e.antlr4.feature" version="1.0.0.201607150959">
+      <category name="com.yahoo.wlauer.m2e.antlr4"/>
+   </feature>
+   <category-def name="com.yahoo.wlauer.m2e.antlr4" label="M2E Antlr4 Connector">
+      <description>
+         M2E Connector for Antlr4
+      </description>
+   </category-def>
+</site>
